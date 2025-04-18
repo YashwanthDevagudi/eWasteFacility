@@ -117,12 +117,11 @@ npm start
 ## 🛠️ Configuration
 Configure these environment variables in your .env file:
 
-Variable Name                              	Description
+Variable Name              -->                	Description
 --------------                               ------------
-REACT_APP_GOOGLE_MAPS_API_KEY          	    Google Maps JavaScript API key
-REACT_APP_BACKEND_URL                  	    API endpoint for facility data
-REACT_APP_GEOCODING_API_KEY             	  (Optional) Geocoding service API key
-
+REACT_APP_GOOGLE_MAPS_API_KEY   -->       	    Google Maps JavaScript API key
+REACT_APP_BACKEND_URL           -->      	    API endpoint for facility data
+REACT_APP_GEOCODING_API_KEY     -->        	  (Optional) Geocoding service API key
 
 ## 🧪 API Endpoints
 Example routes (adjust depending on your actual routes)
@@ -131,13 +130,13 @@ Example routes (adjust depending on your actual routes)
 - POST /api/users/register - Register a new user
 - POST /api/users/login - Authenticate a user
 
-
-
 ## 🙌 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-
-
+## 📧 Contact
+- Yashwanth Devagudi - GitHub Profile
+- Project Link: https://github.com/YashwanthDevagudi/ewasteFacility
+- Live Demo: https://ecorecycle-e.vercel.app/
 
 
 
